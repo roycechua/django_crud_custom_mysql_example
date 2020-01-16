@@ -1,0 +1,1 @@
+# django_crud_custom_mysql_example
